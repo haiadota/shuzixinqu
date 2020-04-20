@@ -89,7 +89,7 @@ function FlyToXinQu(data, callback) {
     app.camera.flyTo({
         'position': position,
         'target': target,
-        time: 3000,
+        time: 4000,
         complete: function () {
             app.camera.flyRotatePoint({
                 target: app.camera.target,
