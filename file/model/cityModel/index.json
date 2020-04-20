@@ -1,0 +1,24 @@
+{
+  "sourceFile": "C:\\Users\\Administrator\\Desktop\\切图\\定位.max",
+  "gltfFiles": [
+    "TUIOENKOH77Q3U1D4ATU4941XQPIGH46E.gltf"
+  ],
+  "texFiles": {
+    "AD6V5QTC5EPOPE87M8WNYANI47PS5TJOQ": ".bin",
+    "8WIP92IDD8N2XJ8CYQ0QXEZ2PUY2CZZ2O": "光柱3_00048_com.png",
+    "7U727JSOJD7SPJWVGAN0GQ71IQJ8YU2VR": "1-定位_00048_com.png"
+  },
+  "size": [
+    0.512,
+    0.2,
+    0.512
+  ],
+  "faces": 64,
+  "verts": 50,
+  "nodes": 2,
+  "createTime": "2019-05-24 13:31:14",
+  "author": "8709",
+  "computer": "DESKTOP-4E7U8V0",
+  "max": "#(21000, 52, 0)",
+  "version": "2.1"
+}

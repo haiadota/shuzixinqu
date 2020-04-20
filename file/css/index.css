@@ -1,0 +1,40 @@
+.videoBox{
+    width:1777px;
+    padding-bottom: 50px;
+    background:url('../img/videoBd.png') no-repeat;
+    background-size:100% 100%;
+}
+.videoBox .txt{
+    height: 68px;
+    width: 96.5%;
+    color: #fff;
+    text-align: center;
+    font-size: 36px;
+    line-height: 50px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    margin: 0 auto;
+}
+.videoBox .video_wrap{
+    width: 96.5%;
+    margin: 0 auto;
+}
+.videoBox .video_wrap .main{
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    /* height: 100%; */
+    width: 100%;
+}
+
+.renkou_box{
+    padding: 20px;
+    height: 100px;
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+}
